@@ -1,0 +1,60 @@
+{
+  "session_id": "SESSION-A60XZQYBH",
+  "exam_title": "Python Programming Test",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-01T16:04:31.821550+05:30",
+    "end": "2026-08-01T16:05:08.616422+05:30",
+    "total_duration_formatted": "0m 36s"
+  },
+  "integrity_summary": {
+    "score": 66.8,
+    "status": "FLAGGED FOR REVIEW",
+    "recommendation": "Moderate Warnings: Minor absences or tab switches detected. Manual review suggested.",
+    "total_violations": 5
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 6.35,
+    "absence_count": 2,
+    "tab_switch_count": 0,
+    "object_violation_count": 3,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [
+      {
+        "id": 204,
+        "absence_start": "2026-08-01T16:04:34.823218+05:30",
+        "absence_end": "2026-08-01T16:04:36.930999+05:30",
+        "duration_seconds": 2.11
+      },
+      {
+        "id": 205,
+        "absence_start": "2026-08-01T16:04:40.032019+05:30",
+        "absence_end": "2026-08-01T16:04:44.276414+05:30",
+        "duration_seconds": 4.24
+      }
+    ],
+    "tab_switches": [],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-01T16:04:37.612933+05:30",
+        "object": "cell phone",
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "2026-08-01T16:04:55.900745+05:30",
+        "object": "cell phone",
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "2026-08-01T16:05:05.058098+05:30",
+        "object": "cell phone",
+        "confidence": 0.66
+      }
+    ]
+  }
+}

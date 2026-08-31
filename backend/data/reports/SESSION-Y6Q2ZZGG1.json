@@ -1,0 +1,141 @@
+{
+  "session_id": "SESSION-Y6Q2ZZGG1",
+  "exam_title": "Python Programming Test",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-02T16:24:16.955497+05:30",
+    "end": "2026-08-02T16:25:35.986308+05:30",
+    "total_duration_formatted": "1m 19s"
+  },
+  "integrity_summary": {
+    "score": 0.0,
+    "status": "HIGH VIOLATION RISK",
+    "recommendation": "Critical Flag: Multiple severe proctoring violations detected (prohibited objects or frequent tab switching).",
+    "total_violations": 17
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 2.27,
+    "absence_count": 1,
+    "tab_switch_count": 0,
+    "focus_loss_count": 1,
+    "browser_closed": false,
+    "object_violation_count": 15,
+    "multiple_face_events_count": 4
+  },
+  "logs": {
+    "absence_intervals": [
+      {
+        "id": 207,
+        "absence_start": "2026-08-02T16:24:29.959470+05:30",
+        "absence_end": "2026-08-02T16:24:32.225475+05:30",
+        "duration_seconds": 2.27
+      }
+    ],
+    "tab_switches": [],
+    "focus_losses": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-02T16:25:21.699893+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #1)."
+      }
+    ],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-02T16:24:19.130051+05:30",
+        "object": "cell phone",
+        "confidence": 0.41
+      },
+      {
+        "timestamp": "2026-08-02T16:24:23.460016+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-02T16:24:27.616997+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-02T16:24:31.758079+05:30",
+        "object": "cell phone",
+        "confidence": 0.95
+      },
+      {
+        "timestamp": "2026-08-02T16:24:35.848298+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-02T16:24:39.869634+05:30",
+        "object": "cell phone",
+        "confidence": 0.92
+      },
+      {
+        "timestamp": "2026-08-02T16:24:43.965138+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-02T16:24:48.114719+05:30",
+        "object": "cell phone",
+        "confidence": 0.38
+      },
+      {
+        "timestamp": "2026-08-02T16:24:52.123424+05:30",
+        "object": "cell phone",
+        "confidence": 0.91
+      },
+      {
+        "timestamp": "2026-08-02T16:24:57.807953+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-02T16:25:01.928883+05:30",
+        "object": "cell phone",
+        "confidence": 0.99
+      },
+      {
+        "timestamp": "2026-08-02T16:25:20.705398+05:30",
+        "object": "cell phone",
+        "confidence": 0.99
+      },
+      {
+        "timestamp": "2026-08-02T16:25:24.866749+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-02T16:25:28.959828+05:30",
+        "object": "cell phone",
+        "confidence": 1.0
+      },
+      {
+        "timestamp": "2026-08-02T16:25:33.008010+05:30",
+        "object": "cell phone",
+        "confidence": 0.99
+      }
+    ],
+    "multiple_face_events": [
+      {
+        "timestamp": "2026-08-02T16:24:20.635536+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      },
+      {
+        "timestamp": "2026-08-02T16:24:32.509941+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      },
+      {
+        "timestamp": "2026-08-02T16:24:39.496167+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      },
+      {
+        "timestamp": "2026-08-02T16:24:44.506067+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      }
+    ]
+  }
+}

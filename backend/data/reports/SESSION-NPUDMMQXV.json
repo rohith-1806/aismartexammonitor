@@ -1,0 +1,2212 @@
+{
+  "session_id": "SESSION-NPUDMMQXV",
+  "exam_title": "Artificial Intelligence Basics",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-01T15:39:34.898579+05:30",
+    "end": "2026-08-01T15:41:10.220957+05:30",
+    "total_duration_formatted": "1m 35s"
+  },
+  "integrity_summary": {
+    "score": 0.0,
+    "status": "HIGH VIOLATION RISK",
+    "recommendation": "Critical Flag: Multiple severe proctoring violations detected (prohibited objects or frequent tab switching).",
+    "total_violations": 435
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 27.38,
+    "absence_count": 3,
+    "tab_switch_count": 2,
+    "object_violation_count": 430,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [
+      {
+        "id": 198,
+        "absence_start": "2026-08-01T15:39:37.205036+05:30",
+        "absence_end": "2026-08-01T15:39:52.264765+05:30",
+        "duration_seconds": 15.06
+      },
+      {
+        "id": 199,
+        "absence_start": "2026-08-01T15:39:52.359586+05:30",
+        "absence_end": "2026-08-01T15:40:00.213493+05:30",
+        "duration_seconds": 7.85
+      },
+      {
+        "id": 200,
+        "absence_start": "2026-08-01T15:40:47.148871+05:30",
+        "absence_end": "2026-08-01T15:40:51.619499+05:30",
+        "duration_seconds": 4.47
+      }
+    ],
+    "tab_switches": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-01T15:40:54.500736+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #1)."
+      },
+      {
+        "id": 2,
+        "timestamp": "2026-08-01T15:40:54.628701+05:30",
+        "details": "Tab Switch: Candidate navigated away from the exam tab (Violation #2)."
+      }
+    ],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-01T15:39:37.205036+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:37.423339+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:37.597972+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:37.734169+05:30",
+        "object": "cell phone",
+        "confidence": 0.95
+      },
+      {
+        "timestamp": "2026-08-01T15:39:37.887084+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.007473+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.131013+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.249091+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.338006+05:30",
+        "object": "cell phone",
+        "confidence": 0.99
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.425758+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.531889+05:30",
+        "object": "cell phone",
+        "confidence": 0.94
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.624516+05:30",
+        "object": "cell phone",
+        "confidence": 0.95
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.706801+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.795959+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.887189+05:30",
+        "object": "cell phone",
+        "confidence": 0.51
+      },
+      {
+        "timestamp": "2026-08-01T15:39:38.965698+05:30",
+        "object": "cell phone",
+        "confidence": 0.6
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.045640+05:30",
+        "object": "cell phone",
+        "confidence": 0.32
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.123097+05:30",
+        "object": "cell phone",
+        "confidence": 0.55
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.243397+05:30",
+        "object": "cell phone",
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.337896+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.415474+05:30",
+        "object": "cell phone",
+        "confidence": 0.97
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.518739+05:30",
+        "object": "cell phone",
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.617083+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.710836+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.794622+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:39.894351+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.009557+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.110374+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.233517+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.343258+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.443095+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.562608+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.635079+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.705891+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.776485+05:30",
+        "object": "cell phone",
+        "confidence": 0.93
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.864359+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:40.969822+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.060382+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.159016+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.264387+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.349522+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.437841+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.548679+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.641588+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.731692+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.831049+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:41.924326+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.021325+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.106709+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.191619+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.277465+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.372924+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.456122+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.542768+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.622557+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.706417+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.789809+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.874015+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:42.949856+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.029199+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.114951+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.196692+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.276107+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.349012+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.433746+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.518645+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.592430+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.668566+05:30",
+        "object": "cell phone",
+        "confidence": 0.64
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.739712+05:30",
+        "object": "cell phone",
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.823978+05:30",
+        "object": "cell phone",
+        "confidence": 0.53
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.896903+05:30",
+        "object": "cell phone",
+        "confidence": 0.53
+      },
+      {
+        "timestamp": "2026-08-01T15:39:43.969086+05:30",
+        "object": "cell phone",
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.045372+05:30",
+        "object": "cell phone",
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.125220+05:30",
+        "object": "cell phone",
+        "confidence": 0.95
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.214418+05:30",
+        "object": "cell phone",
+        "confidence": 0.96
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.286545+05:30",
+        "object": "cell phone",
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.368585+05:30",
+        "object": "cell phone",
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.454606+05:30",
+        "object": "cell phone",
+        "confidence": 0.98
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.540606+05:30",
+        "object": "cell phone",
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.616676+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.687547+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.758505+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.855188+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.926944+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:44.999134+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.074241+05:30",
+        "object": "cell phone",
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.158542+05:30",
+        "object": "cell phone",
+        "confidence": 0.62
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.242286+05:30",
+        "object": "cell phone",
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.314669+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.391176+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.474082+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.550289+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.623010+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.695801+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.784174+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.858686+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:45.941613+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.016817+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.105027+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.178808+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.253805+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.326892+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.406066+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.481427+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.552889+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.627844+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.697428+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.786731+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:46.862081+05:30",
+        "object": "cell phone",
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "2026-08-01T15:39:48.998303+05:30",
+        "object": "cell phone",
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.086996+05:30",
+        "object": "cell phone",
+        "confidence": 0.92
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.177225+05:30",
+        "object": "cell phone",
+        "confidence": 0.92
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.266136+05:30",
+        "object": "cell phone",
+        "confidence": 0.92
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.350179+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.427111+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.507249+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.592639+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.676544+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.751421+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.825890+05:30",
+        "object": "cell phone",
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.913378+05:30",
+        "object": "cell phone",
+        "confidence": 0.47
+      },
+      {
+        "timestamp": "2026-08-01T15:39:49.993254+05:30",
+        "object": "cell phone",
+        "confidence": 0.47
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.067263+05:30",
+        "object": "cell phone",
+        "confidence": 0.88
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.146181+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.230910+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.302527+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.380493+05:30",
+        "object": "cell phone",
+        "confidence": 0.56
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.461710+05:30",
+        "object": "cell phone",
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.543359+05:30",
+        "object": "cell phone",
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.616142+05:30",
+        "object": "cell phone",
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.702182+05:30",
+        "object": "cell phone",
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.782919+05:30",
+        "object": "cell phone",
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.870394+05:30",
+        "object": "cell phone",
+        "confidence": 0.31
+      },
+      {
+        "timestamp": "2026-08-01T15:39:50.949761+05:30",
+        "object": "cell phone",
+        "confidence": 0.31
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.051561+05:30",
+        "object": "cell phone",
+        "confidence": 0.6
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.138173+05:30",
+        "object": "cell phone",
+        "confidence": 0.33
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.231363+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.333839+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.427652+05:30",
+        "object": "cell phone",
+        "confidence": 0.31
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.537972+05:30",
+        "object": "cell phone",
+        "confidence": 0.31
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.634016+05:30",
+        "object": "cell phone",
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.731940+05:30",
+        "object": "cell phone",
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.832242+05:30",
+        "object": "cell phone",
+        "confidence": 0.31
+      },
+      {
+        "timestamp": "2026-08-01T15:39:51.940420+05:30",
+        "object": "cell phone",
+        "confidence": 0.95
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.038715+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.155785+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.264765+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.359586+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.479733+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.596318+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.691173+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:52.775774+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.060534+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.387616+05:30",
+        "object": "cell phone",
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.547384+05:30",
+        "object": "cell phone",
+        "confidence": 0.94
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.641688+05:30",
+        "object": "cell phone",
+        "confidence": 0.94
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.776302+05:30",
+        "object": "cell phone",
+        "confidence": 0.94
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.862690+05:30",
+        "object": "cell phone",
+        "confidence": 0.94
+      },
+      {
+        "timestamp": "2026-08-01T15:39:53.973350+05:30",
+        "object": "cell phone",
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.065183+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.233271+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.391745+05:30",
+        "object": "cell phone",
+        "confidence": 0.53
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.557770+05:30",
+        "object": "cell phone",
+        "confidence": 0.32
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.714660+05:30",
+        "object": "cell phone",
+        "confidence": 0.43
+      },
+      {
+        "timestamp": "2026-08-01T15:39:54.866577+05:30",
+        "object": "cell phone",
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.017356+05:30",
+        "object": "cell phone",
+        "confidence": 0.48
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.172324+05:30",
+        "object": "cell phone",
+        "confidence": 0.33
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.285136+05:30",
+        "object": "cell phone",
+        "confidence": 0.33
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.399389+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.584803+05:30",
+        "object": "cell phone",
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.717995+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.855474+05:30",
+        "object": "cell phone",
+        "confidence": 0.52
+      },
+      {
+        "timestamp": "2026-08-01T15:39:55.999127+05:30",
+        "object": "cell phone",
+        "confidence": 0.45
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.116421+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.242144+05:30",
+        "object": "cell phone",
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.352505+05:30",
+        "object": "cell phone",
+        "confidence": 0.45
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.460188+05:30",
+        "object": "cell phone",
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.559003+05:30",
+        "object": "cell phone",
+        "confidence": 0.55
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.659771+05:30",
+        "object": "cell phone",
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.764525+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.849905+05:30",
+        "object": "cell phone",
+        "confidence": 0.47
+      },
+      {
+        "timestamp": "2026-08-01T15:39:56.968452+05:30",
+        "object": "cell phone",
+        "confidence": 0.47
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.065103+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.167324+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.278177+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.382493+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.484354+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.589627+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.698481+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.802072+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:57.907832+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.009768+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.115224+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.221694+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.323177+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.431892+05:30",
+        "object": "cell phone",
+        "confidence": 0.39
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.551284+05:30",
+        "object": "cell phone",
+        "confidence": 0.4
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.668226+05:30",
+        "object": "cell phone",
+        "confidence": 0.4
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.770520+05:30",
+        "object": "cell phone",
+        "confidence": 0.42
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.770520+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.872166+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:39:58.983136+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.100876+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.250694+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.404308+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.559086+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.689468+05:30",
+        "object": "cell phone",
+        "confidence": 0.37
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.804803+05:30",
+        "object": "cell phone",
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "2026-08-01T15:39:59.945976+05:30",
+        "object": "cell phone",
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.076454+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.213493+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.348592+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.471050+05:30",
+        "object": "cell phone",
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.595396+05:30",
+        "object": "cell phone",
+        "confidence": 0.49
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.716136+05:30",
+        "object": "cell phone",
+        "confidence": 0.49
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.846834+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:40:00.977124+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.105226+05:30",
+        "object": "cell phone",
+        "confidence": 0.29
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.235096+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.373512+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.500867+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.616098+05:30",
+        "object": "cell phone",
+        "confidence": 0.46
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.757842+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:01.908010+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.080535+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.259679+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.417954+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.567703+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.731063+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:02.876764+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.004875+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.143050+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.304355+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.477632+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.646488+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.779691+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:03.924175+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.070262+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.219610+05:30",
+        "object": "cell phone",
+        "confidence": 0.44
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.362117+05:30",
+        "object": "cell phone",
+        "confidence": 0.4
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.485258+05:30",
+        "object": "cell phone",
+        "confidence": 0.4
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.671664+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.829606+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:04.984385+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.143198+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.319841+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.485718+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.658041+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.834195+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:05.979204+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.129718+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.271988+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.419631+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.550765+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.675682+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.814023+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:06.948833+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:07.085958+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:07.253529+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:07.429198+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:07.618340+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:07.788756+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.070312+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.199934+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.334601+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.468601+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.599381+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.728964+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.854685+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:19.985203+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.117450+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.250584+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.387129+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.512514+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.638021+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.765416+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.889487+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:20.999742+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.133037+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.269546+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.383563+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.508483+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.636040+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:21.752170+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:22.379569+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:22.502342+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:22.631003+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:22.772735+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:22.949945+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.147626+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.307931+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.458818+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.597782+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.750649+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:23.882001+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.053336+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.201570+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.336290+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.462472+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.581588+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.713720+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.827198+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:24.937373+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.063511+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.185976+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.295151+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.411991+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.534260+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.661988+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.780631+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:25.916379+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.040815+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.160770+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.301404+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.430011+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.558508+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.684388+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.811650+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:26.932119+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.070099+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.197771+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.321566+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.456258+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.594394+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.728087+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:27.888809+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.175019+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.330532+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.482484+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.647425+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.829961+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:28.967249+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.100743+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.244478+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.380025+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.527512+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.668946+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.802392+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:29.934888+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.063095+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.198823+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.334794+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.463223+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.599533+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.737739+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.867788+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:30.987968+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.118800+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.257400+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.375305+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.497803+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.636358+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.762165+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:31.907014+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.018011+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.148549+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.270391+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.396453+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.529783+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.659371+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.789166+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:32.919546+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:33.056295+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:33.191726+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:33.313588+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:33.444230+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:33.565054+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:40.781560+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:40.926849+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.070852+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.211138+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.388240+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.529832+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.663410+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.790849+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:41.962339+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.124255+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.247380+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.399988+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.536534+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.659234+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.816024+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:42.993765+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:43.191196+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:43.382091+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:43.558926+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:43.720156+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:43.899037+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.070588+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.220774+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.363334+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.505162+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.633946+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.788837+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:44.925956+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.067343+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.209480+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.364259+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.497246+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.638569+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.788752+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:45.975003+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:46.152260+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:46.311552+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:46.478850+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:46.660827+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:46.836822+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.012743+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.148871+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.256736+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.346387+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.444406+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.530380+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.641608+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.733764+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.832329+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:47.928350+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.022947+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.114235+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.201001+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.310645+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.413845+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.506902+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.599339+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.714549+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.834211+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:48.933137+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:49.015211+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:49.111498+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-01T15:40:49.223725+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      }
+    ]
+  }
+}

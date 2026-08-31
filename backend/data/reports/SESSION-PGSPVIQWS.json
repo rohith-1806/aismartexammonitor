@@ -1,0 +1,47 @@
+{
+  "session_id": "SESSION-PGSPVIQWS",
+  "exam_title": "Artificial Intelligence Basics",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-01T12:51:26.490407+05:30",
+    "end": "2026-08-01T12:51:32.709032+05:30",
+    "total_duration_formatted": "0m 6s"
+  },
+  "integrity_summary": {
+    "score": 76.0,
+    "status": "FLAGGED FOR REVIEW",
+    "recommendation": "Moderate Warnings: Minor absences or tab switches detected. Manual review suggested.",
+    "total_violations": 3
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 0,
+    "absence_count": 0,
+    "tab_switch_count": 3,
+    "object_violation_count": 0,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [],
+    "tab_switches": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-01T12:51:30.358358+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #1)."
+      },
+      {
+        "id": 2,
+        "timestamp": "2026-08-01T12:51:30.389656+05:30",
+        "details": "Tab Switch: Candidate navigated away from the exam tab (Violation #2)."
+      },
+      {
+        "id": 3,
+        "timestamp": "2026-08-01T12:51:32.335732+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #3)."
+      }
+    ],
+    "object_violations": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "session_id": "SESSION-QAU5L7BI0",
+  "exam_title": "Data Structures Intro",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-01T15:51:35.392163+05:30",
+    "end": "2026-08-01T15:52:07.331658+05:30",
+    "total_duration_formatted": "0m 31s"
+  },
+  "integrity_summary": {
+    "score": 58.8,
+    "status": "HIGH VIOLATION RISK",
+    "recommendation": "Critical Flag: Multiple severe proctoring violations detected (prohibited objects or frequent tab switching).",
+    "total_violations": 5
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 2.41,
+    "absence_count": 1,
+    "tab_switch_count": 0,
+    "object_violation_count": 4,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [
+      {
+        "id": 203,
+        "absence_start": "2026-08-01T15:51:47.268738+05:30",
+        "absence_end": "2026-08-01T15:51:49.683552+05:30",
+        "duration_seconds": 2.41
+      }
+    ],
+    "tab_switches": [],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-01T15:51:44.651779+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-01T15:51:54.947261+05:30",
+        "object": "cell phone",
+        "confidence": 0.34
+      },
+      {
+        "timestamp": "2026-08-01T15:51:58.996144+05:30",
+        "object": "cell phone",
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "2026-08-01T15:52:03.811305+05:30",
+        "object": "cell phone",
+        "confidence": 0.49
+      }
+    ]
+  }
+}

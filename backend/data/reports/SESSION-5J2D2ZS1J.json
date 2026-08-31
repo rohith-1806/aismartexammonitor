@@ -1,0 +1,42 @@
+{
+  "session_id": "SESSION-5J2D2ZS1J",
+  "exam_title": "Python Programming Test",
+  "candidate": {
+    "name": "Swetha Ramasubramanian",
+    "id": "EG-XUT7OYDFL"
+  },
+  "timestamps": {
+    "start": "2026-08-01T10:00:14.271515+05:30",
+    "end": "2026-08-01T10:00:46.983850+05:30",
+    "total_duration_formatted": "0m 32s"
+  },
+  "integrity_summary": {
+    "score": 84.0,
+    "status": "FLAGGED FOR REVIEW",
+    "recommendation": "Moderate Warnings: Minor absences or tab switches detected. Manual review suggested.",
+    "total_violations": 2
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 0,
+    "absence_count": 0,
+    "tab_switch_count": 2,
+    "object_violation_count": 0,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [],
+    "tab_switches": [
+      {
+        "id": 1,
+        "timestamp": "2026-08-01T10:00:32.040735+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #1)."
+      },
+      {
+        "id": 2,
+        "timestamp": "2026-08-01T10:00:37.582088+05:30",
+        "details": "Focus Loss: Candidate clicked outside the active viewport (Violation #2)."
+      }
+    ],
+    "object_violations": []
+  }
+}

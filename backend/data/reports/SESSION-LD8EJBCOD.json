@@ -1,0 +1,74 @@
+{
+  "session_id": "SESSION-LD8EJBCOD",
+  "exam_title": "Web Development Fundamentals",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-02T16:22:25.345232+05:30",
+    "end": "2026-08-02T16:23:01.170903+05:30",
+    "total_duration_formatted": "0m 35s"
+  },
+  "integrity_summary": {
+    "score": 35.0,
+    "status": "HIGH VIOLATION RISK",
+    "recommendation": "Critical Flag: Multiple severe proctoring violations detected (prohibited objects or frequent tab switching).",
+    "total_violations": 5
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 0,
+    "absence_count": 0,
+    "tab_switch_count": 0,
+    "focus_loss_count": 0,
+    "browser_closed": false,
+    "object_violation_count": 5,
+    "multiple_face_events_count": 3
+  },
+  "logs": {
+    "absence_intervals": [],
+    "tab_switches": [],
+    "focus_losses": [],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-02T16:22:26.830160+05:30",
+        "object": "cell phone",
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "2026-08-02T16:22:45.618163+05:30",
+        "object": "cell phone",
+        "confidence": 0.33
+      },
+      {
+        "timestamp": "2026-08-02T16:22:49.717918+05:30",
+        "object": "cell phone",
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "2026-08-02T16:22:53.738790+05:30",
+        "object": "cell phone",
+        "confidence": 0.3
+      },
+      {
+        "timestamp": "2026-08-02T16:22:57.745283+05:30",
+        "object": "cell phone",
+        "confidence": 0.52
+      }
+    ],
+    "multiple_face_events": [
+      {
+        "timestamp": "2026-08-02T16:22:35.565987+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      },
+      {
+        "timestamp": "2026-08-02T16:22:45.618163+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      },
+      {
+        "timestamp": "2026-08-02T16:22:50.660698+05:30",
+        "details": "Multiple faces detected: 2 faces present in frame."
+      }
+    ]
+  }
+}

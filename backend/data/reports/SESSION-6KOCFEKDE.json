@@ -1,0 +1,46 @@
+{
+  "session_id": "SESSION-6KOCFEKDE",
+  "exam_title": "Artificial Intelligence Basics",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-10T18:58:45.749118+05:30",
+    "end": "2026-08-10T18:58:55.304323+05:30",
+    "total_duration_formatted": "0m 9s"
+  },
+  "integrity_summary": {
+    "score": 80.0,
+    "status": "FLAGGED FOR REVIEW",
+    "recommendation": "Moderate Warnings: Minor absences or tab switches detected. Manual review suggested.",
+    "total_violations": 2
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 0,
+    "absence_count": 0,
+    "tab_switch_count": 0,
+    "focus_loss_count": 0,
+    "browser_closed": false,
+    "object_violation_count": 2,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [],
+    "tab_switches": [],
+    "focus_losses": [],
+    "object_violations": [
+      {
+        "timestamp": "2026-08-10T18:58:49.349676+05:30",
+        "object": "cell phone",
+        "confidence": 0.35
+      },
+      {
+        "timestamp": "2026-08-10T18:58:53.362916+05:30",
+        "object": "cell phone",
+        "confidence": 0.33
+      }
+    ],
+    "multiple_face_events": []
+  }
+}

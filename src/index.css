@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+}
+
+html, body {
+  background-color: #FFFFFF;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+  touch-action: pan-y;
+}
+
+*, *::before, *::after {
+  overscroll-behavior-x: none;
+  touch-action: pan-y;
+}
+
+body {
+  margin: 0;
+  min-width: 0;
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background-color: #FFFFFF;
+  color: #111827;
+}
+
+:root.dark body {
+  background-color: #FFFFFF;
+  color: #111827;
+}
+
+#root {
+  background-color: #FFFFFF;
+  overflow-x: hidden;
+  overflow-y: auto;
+  touch-action: pan-y;
+}
+
+input,
+textarea,
+select,
+button {
+  color: #111827;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #64748B;
+  opacity: 1;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.18);
+  color: #111827;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.auth-input::placeholder {
+  color: #64748B;
+  opacity: 1;
+}

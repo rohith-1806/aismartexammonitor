@@ -1,0 +1,44 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Local databases and runtime data
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+*.dump
+backend/instance/
+
+# Dependencies and Python runtime files
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+credentials.*
+*token*
+*secret*
+
+# Build and coverage output
+dist/
+coverage/
+.pytest_cache/
+
+# Local IDE and OS files
+.vscode/
+.idea/
+.project
+.classpath
+.DS_Store
+Thumbs.db
+.git-before-fresh-history/

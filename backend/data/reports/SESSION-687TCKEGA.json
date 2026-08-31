@@ -1,0 +1,31 @@
+{
+  "session_id": "SESSION-687TCKEGA",
+  "exam_title": "Python Programming Test",
+  "candidate": {
+    "name": "Alex Carter",
+    "id": "EG-88294"
+  },
+  "timestamps": {
+    "start": "2026-08-02T15:56:25.248824+05:30",
+    "end": "2026-08-02T15:57:06.248785+05:30",
+    "total_duration_formatted": "0m 40s"
+  },
+  "integrity_summary": {
+    "score": 100.0,
+    "status": "CLEARED",
+    "recommendation": "High Integrity: Exam session verified. No major integrity violations.",
+    "total_violations": 0
+  },
+  "violation_metrics": {
+    "total_absence_duration_seconds": 0,
+    "absence_count": 0,
+    "tab_switch_count": 0,
+    "object_violation_count": 0,
+    "multiple_face_events_count": 0
+  },
+  "logs": {
+    "absence_intervals": [],
+    "tab_switches": [],
+    "object_violations": []
+  }
+}
