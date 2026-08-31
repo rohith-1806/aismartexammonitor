@@ -13,23 +13,6 @@ An intelligent, real-time automated AI proctoring and online examination monitor
 
 ---
 
-## 📌 Table of Contents
-- [📖 Overview](#-overview)
-- [🚨 Problem Statement](#-problem-statement)
-- [✨ Key Features](#-key-features)
-- [⚙️ System Architecture & Workflow](#️-system-architecture--workflow)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Installation & Setup](#-installation--setup)
-- [💻 How to Run the Application](#-how-to-run-the-application)
-- [🔑 Test Credentials & Usage](#-test-credentials--usage)
-- [🎥 Demo & User Experience](#-demo--user-experience)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [👤 Author](#-author)
-- [📄 License](#-license)
-
----
-
 ## 📖 Overview
 
 **AI Smart Exam Monitor** (also known as **ExamGuard**) is a modern web application designed to ensure integrity and fairness in remote online examinations. The system combines an intuitive candidate examination interface with a robust administrator portal backed by an automated AI proctoring rule engine.
@@ -148,57 +131,6 @@ stateDiagram-v2
 
 ---
 
-## 📁 Project Structure
-
-```
-aismartexammonitor/
-├── backend/                        # Flask Python API Server
-│   ├── app.py                      # Application entry point
-│   ├── seed_data.py                # Database initialization & sample data seeder
-│   ├── inspect_backend.py          # Backend diagnostics & schema inspector
-│   ├── requirements.txt            # Python dependencies
-│   ├── backend/
-│   │   ├── __init__.py             # Flask app factory
-│   │   ├── config.py               # Application configuration & CORS settings
-│   │   ├── database.py             # SQLAlchemy database setup
-│   │   ├── models/                 # Database ORM models
-│   │   │   └── exam_models.py      # Candidate, Exam, Question, & Session models
-│   │   ├── routes/                 # RESTful API route blueprints
-│   │   │   ├── auth.py             # Authentication endpoints
-│   │   │   ├── candidate.py        # Candidate exam portal endpoints
-│   │   │   ├── proctoring.py       # Proctoring violation logging endpoints
-│   │   │   └── admin.py            # Administrator management endpoints
-│   │   └── services/               # Core business logic & proctoring algorithms
-│   └── docs/                       # Backend API documentation
-│       └── API_DOCUMENTATION.md    # Detailed API endpoint references
-│
-├── src/                            # React Frontend Source Code
-│   ├── App.jsx                     # Root application component & route configuration
-│   ├── main.jsx                    # Application entry point
-│   ├── index.css                   # Global styles & Tailwind import
-│   ├── components/                 # Reusable UI components (Modals, Timers, Cards)
-│   ├── config/                     # Frontend API configurations
-│   ├── contexts/                   # React contexts (AuthContext, ProctoringContext)
-│   ├── hooks/                      # Custom hooks (useProctoring, useExamTimer)
-│   ├── pages/                      # Page views (Login, Candidate Dashboard, Exam, Admin)
-│   ├── routes/                     # Protected route components & navigation guards
-│   ├── services/                   # API service clients (authApi, examApi, proctoringApi)
-│   └── utils/                      # Helper utilities and formatting functions
-│
-├── public/                         # Static web assets
-├── package.json                    # Node.js project manifest & scripts
-├── vite.config.js                  # Vite configuration settings
-├── tailwind.config.js              # TailwindCSS styling configuration
-├── postcss.config.js               # PostCSS plugin settings
-├── render.yaml                     # Render backend cloud deployment configuration
-├── vercel.json                     # Vercel frontend deployment configuration
-├── .env.example                    # Environment variable template
-├── .gitignore                      # Git exclusion patterns
-└── README.md                       # Comprehensive project documentation
-```
-
----
-
 ## 🚀 Installation & Setup
 
 ### Prerequisites
@@ -255,26 +187,6 @@ cd aismartexammonitor
 
 ---
 
-### 3️⃣ Frontend Setup (React / Vite)
-
-1. Open a new terminal window and return to the root directory:
-   ```bash
-   cd aismartexammonitor
-   ```
-
-2. Install Node modules:
-   ```bash
-   npm install
-   ```
-
-3. Start the Vite development server:
-   ```bash
-   npm run dev
-   ```
-   *The React application will launch in your browser at **`http://localhost:3000`**.*
-
----
-
 ## 💻 How to Run the Application
 
 To run the complete system locally, run both backend and frontend servers simultaneously:
@@ -317,17 +229,6 @@ The application comes pre-seeded with sample user accounts for instant testing:
 
 ---
 
-## 🎥 Demo & User Experience
-
-<details>
-<summary>🔍 <b>Candidate Workflow Experience</b></summary>
-
-1. **Login**: Candidate enters credentials on the responsive login page.
-2. **Dashboard**: Views active, upcoming, and completed exams.
-3. **Pre-Exam Verification**: System checks camera access and displays exam instructions.
-4. **Active Test Mode**: Full-screen mode is requested. The question navigator displays status across all questions.
-5. **Real-time Proctoring**: Switching tabs or leaving the camera frame triggers immediate on-screen warnings. Exceeding the maximum allowed warnings automatically submits the candidate's test.
-
 </details>
 
 <details>
@@ -353,8 +254,7 @@ The application comes pre-seeded with sample user accounts for instant testing:
 
 ## 👤 Author
 
-**PATHAN KHADAR KHAN**
-- **GitHub**: [@rohith-1806](https://github.com/rohith-1806)
+<strong>**PATHAN KHADAR KHAN**</strong>
 - **Repository**: [aismartexammonitor](https://github.com/rohith-1806/aismartexammonitor)
 
 ---
